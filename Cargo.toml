@@ -1,0 +1,10 @@
+[package]
+name = "dragon"
+version = "0.1.0"
+edition = "2024"
+description="automation platform"
+readme="README.md"
+keywords=["automation","devops","deployment","ssh"]
+include=["src/","version.sh"]
+
+[dependencies]
